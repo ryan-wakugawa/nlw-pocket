@@ -1,5 +1,4 @@
-import { Plus, X } from 'lucide-react'
-
+import { Plus } from 'lucide-react'
 import logo from '../assets/logo.svg'
 import letsStart from '../assets/lets-start-illustration.svg'
 import { Button } from './ui/button'
