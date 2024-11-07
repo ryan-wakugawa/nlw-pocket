@@ -24,6 +24,6 @@ app.register(createCompletionRoute)
 app.register(getPendingGoalsRoute)
 app.register(getWeekSummaryRoute)
 
-app.listen({ port: 3333 }).then(() => {
-  console.log('HTTP Server Running!')
+app.listen({ port: 3333, host:'0.0.0.0' }).then((err: any, addr: any) => {
+  console.log(`Servidor rodando em ${addr}`)
 })
