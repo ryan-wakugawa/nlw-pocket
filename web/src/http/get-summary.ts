@@ -1,3 +1,5 @@
+import { URL } from "../url";
+
 type SummaryResponse = {
   completed: number;
   total: number;

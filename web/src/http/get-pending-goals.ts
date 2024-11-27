@@ -1,3 +1,5 @@
+import { URL } from '../url';
+
 type PendingGoalsResponse = {
   goalId: string;
   title: string;

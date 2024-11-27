@@ -14,7 +14,7 @@ Projeto desenvolvido durante a Next Level Week, focado em criar uma aplicação 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/yourusername/nlw-pocket.git
+git clone https://github.com/ryan-wakugawa/nlw-pocket.git
 
 # Entre no diretório
 cd nlw-pocket
